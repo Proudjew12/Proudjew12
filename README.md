@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Eran 👋</h1>
+<p align="center">
+  Full-Stack Developer • React / Node.js • MongoDB • Socket.IO
+</p>
 
-<!--
-**Proudjew12/Proudjew12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="https://YOUR_PORTFOLIO_LINK">Portfolio</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Featured
+- **Fiverr Clone** — marketplace app (React, Node/Express, MongoDB, Socket.IO)  
+  Repo: https://github.com/Proudjew12/fiverr-clone • Live: ADD_LIVE_LINK
+
+- **Space Invaders** — arcade remake  
+  Repo: ADD_REPO_LINK • Live: ADD_LIVE_LINK
+
+---
+
+### 🧰 Tech
+React • TypeScript • Node.js • Express • MongoDB • REST • Socket.IO • Git
