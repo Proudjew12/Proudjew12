@@ -5,11 +5,17 @@
 <h1 align="center">Eran Zindani</h1>
 
 <p align="center">
-  Full-Stack Developer focused on building fast, reliable web apps with clean architecture and strong UX.
+  Junior Full-Stack Developer (JavaScript/TypeScript) building modern web apps with <b>React</b>, <b>Node.js</b>, <b>Express</b>, and <b>MongoDB</b>.
+  Focused on clean code, strong fundamentals, and shipping reliable features.
 </p>
 
 <p align="center">
-  <b>React</b> • <b>TypeScript</b> • <b>Node.js</b> • <b>Express</b> • <b>MongoDB</b> • <b>REST</b> • <b>Socket.IO</b>
+  <b>JavaScript</b> • <b>TypeScript</b> • <b>React</b> • <b>Redux</b> • <b>React Router</b> • <b>Node.js</b> • <b>Express</b> • <b>MongoDB</b> •
+  <b>REST APIs</b> • <b>Socket.IO</b> • <b>Authentication</b> • <b>HTML</b> • <b>CSS</b>
+</p>
+
+<p align="center">
+  <b>Git/GitHub</b> • <b>Linux (Arch)</b> • <b>CLI</b> • <b>Vite</b>
 </p>
 
 <p align="center">
@@ -20,12 +26,15 @@
 
 ---
 
-### What I care about
-- Shipping features that are **simple to maintain** (not clever code).
-- **Performance + correctness** (debuggable, testable, predictable behavior).
-- Product mindset: clear flows, good defaults, and smooth UI details.
+### What I do
+- Build end-to-end features (UI → API → database)
+- Implement real-time flows with WebSockets
+- Work in team workflows (branches, PRs, reviews)
 
-### Principles
-- Clean separation: UI ↔ services ↔ data
-- Reusable components, predictable state
-- Readable code > over-engineering
+### Currently improving
+- TypeScript patterns and maintainable architecture
+- Debugging, performance, and production readiness
+
+<p align="center">
+  Hebrew (Native) • English (Excellent)
+</p>
