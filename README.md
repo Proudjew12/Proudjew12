@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/Proudjew12">GitHub</a>
   •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/eran-zindani-50132633b/">LinkedIn</a>
 </p>
 
 ---
