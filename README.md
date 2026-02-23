@@ -1,24 +1,31 @@
-<h1 align="center">Hey, I'm Eran 👋</h1>
 <p align="center">
-  Full-Stack Developer • React / Node.js • MongoDB • Socket.IO
+  <img src="./assets/banner.png" alt="Developer banner" width="100%" />
+</p>
+
+<h1 align="center">Eran Zindani</h1>
+
+<p align="center">
+  Full-Stack Developer focused on building fast, reliable web apps with clean architecture and strong UX.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://YOUR_PORTFOLIO_LINK">Portfolio</a>
+  <b>React</b> • <b>TypeScript</b> • <b>Node.js</b> • <b>Express</b> • <b>MongoDB</b> • <b>REST</b> • <b>Socket.IO</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Proudjew12">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
 </p>
 
 ---
 
-### ⭐ Featured
-- **Fiverr Clone** — marketplace app (React, Node/Express, MongoDB, Socket.IO)  
-  Repo: https://github.com/Proudjew12/fiverr-clone • Live: ADD_LIVE_LINK
+### What I care about
+- Shipping features that are **simple to maintain** (not clever code).
+- **Performance + correctness** (debuggable, testable, predictable behavior).
+- Product mindset: clear flows, good defaults, and smooth UI details.
 
-- **Space Invaders** — arcade remake  
-  Repo: ADD_REPO_LINK • Live: ADD_LIVE_LINK
-
----
-
-### 🧰 Tech
-React • TypeScript • Node.js • Express • MongoDB • REST • Socket.IO • Git
+### Principles
+- Clean separation: UI ↔ services ↔ data
+- Reusable components, predictable state
+- Readable code > over-engineering
