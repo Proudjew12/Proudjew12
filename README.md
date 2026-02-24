@@ -32,7 +32,7 @@
 - Work in team workflows (branches, PRs, reviews)
 
 ### Currently improving
-- TypeScript patterns and maintainable architecture
+- JavaScript/TypeScript patterns and maintainable architecture
 - Debugging, performance, and production readiness
 
 <p align="center">
