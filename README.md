@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Developer banner" width="100%" />
+  <img src="Banner.png" alt="Developer banner" width="100%" />
 </p>
 
 <h1 align="center">Eran Zindani</h1>
